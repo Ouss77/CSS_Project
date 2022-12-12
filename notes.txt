@@ -1,0 +1,5 @@
+1-kleidershrank 
+2-kuhlshrank
+3-zeit
+4-Aufraumen
+5-Auspraubieren
